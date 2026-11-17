@@ -93,16 +93,6 @@ One line of code, one idea, and one step at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17152B,50:6D55A8,100:17152B&height=2" width="100%" alt="" />
 
-## 📊  GitHub Activity
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub activity, contribution calendar, repositories and language statistics" />
-
-<sub>Automatically refreshed every day · Powered by GitHub Actions</sub>
-
-</div>
-
 <br/>
 
 <div align="center">
