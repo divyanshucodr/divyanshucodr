@@ -97,15 +97,9 @@ One line of code, one idea, and one step at a time.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshucodr&show_icons=true&hide_border=true&bg_color=0D0B18&title_color=B9A2FF&icon_color=B9A2FF&text_color=E5DFF2&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="./github-metrics.svg" width="100%" alt="GitHub activity, contribution calendar, repositories and language statistics" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshucodr&layout=compact&hide_border=true&bg_color=0D0B18&title_color=B9A2FF&text_color=E5DFF2" height="150" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=divyanshucodr&hide_border=true&background=0D0B18&ring=B9A2FF&fire=E6B8FF&currStreakLabel=B9A2FF&sideLabels=E5DFF2&dates=9B91AE" height="170" alt="GitHub contribution streak" />
+<sub>Automatically refreshed every day · Powered by GitHub Actions</sub>
 
 </div>
 
